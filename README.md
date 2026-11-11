@@ -48,3 +48,9 @@ The analysis shows that revenue is broadly distributed across customers and segm
 Power BI report
 Project documentation
 Power Point Presentation Slide
+
+## Dashboard Preview
+
+### Overview Page
+
+![Customer Analytics Dashboard Overview](Customer_Analytics_Overview.png)
